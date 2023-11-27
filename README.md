@@ -19,4 +19,6 @@ This is *especially* **important** because
 ## Discussion & Summary
 Discussion:
 Summary:
+
+
 ![image](https://github.com/caries32/mgt4250test/assets/133187234/6cf743a3-f9a7-43f3-b3dc-5ac61f1c241f)
