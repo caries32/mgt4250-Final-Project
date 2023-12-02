@@ -4,17 +4,17 @@
 This repo is for the class project of MGT4250 Fall 2023 at Elon University.
 
 ## Section 1 - Project Description
-### -Questions of interest
+### Questions of interest
 These are my questions
 - 1. What percentage of vehicles in the State of Washington are electric?
 - 2. How has the number of electric vehicles in the State of Washington changed over
 time?
 
--These questions are important because electric vehicles have been known to be better
+These questions are important because electric vehicles have been known to be better
 for the environment for some time now. All forms of electric vehicles (EVs) can help
 improve fuel economy, lower fuel costs, and reduce emissions. 
 
-### -References:
+### References:
 [The U.S. Department of Energy](https://afdc.energy.gov/fuels/electricity_benefits.html#:~:text=Electric%20and%20hybrid)
 [M.I.T. Climate Portal](https://climate.mit.edu/ask-mit/are-electric-vehicles-definitely-better-climate-gas-powered-cars)
 
