@@ -2,7 +2,7 @@
 
 [Link to Tableau Public Visualization]([https://public.tableau.com/views/SampleVis_17011142680880/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/Y42BNW9Y8?:display_count=n&:origin=viz_share_link)) This repo is for the class project of MGT4250 Fall 2023 at Elon University.
 
-## Project Description
+## Section 1 - Project Description
 ### Questions of interest
 These are my questions
 - 1. What percentage of vehicles in the State of Washington are electric?
@@ -14,9 +14,9 @@ for the environment for some time now. All forms of electric vehicles (EVs) can 
 improve fuel economy, lower fuel costs, and reduce emissions. 
 
 References:
-The U.S. Department of Energy : [https://afdc.energy.gov/fuels/electricity_benefits.html#:~:text=Electric%20and%20hybrid]
-M.I.T. Climate Portal: [https://climate.mit.edu/ask-mit/are-electric-vehicles-definitely-better-climate-gas-powered
--cars]
+[The U.S. Department of Energy](https://afdc.energy.gov/fuels/electricity_benefits.html#:~:text=Electric%20and%20hybrid)
+[M.I.T. Climate Portal](https://climate.mit.edu/ask-mit/are-electric-vehicles-definitely-better-climate-gas-powered
+-cars)
 
 
 ## Data description
