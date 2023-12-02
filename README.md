@@ -9,6 +9,16 @@ These are my questions
 - 2. How has the number of electric vehicles in the State of Washington changed over
 time?
 
+These questions are important because electric vehicles have been known to be better
+for the environment for some time now. All forms of electric vehicles (EVs) can help
+improve fuel economy, lower fuel costs, and reduce emissions. 
+
+References:
+The U.S. Department of Energy : [https://afdc.energy.gov/fuels/electricity_benefits.html#:~:text=Electric%20and%20hybrid
+%20vehicles%20can,type%20of%20hybrid%20power%20system]
+M.I.T. Climate Portal: [https://climate.mit.edu/ask-mit/are-electric-vehicles-definitely-better-climate-gas-powered
+-cars]
+
 
 ## Data description
 This is *especially* **important** because 
