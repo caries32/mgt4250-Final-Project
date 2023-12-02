@@ -13,7 +13,7 @@ These questions are important because electric vehicles have been known to be be
 for the environment for some time now. All forms of electric vehicles (EVs) can help
 improve fuel economy, lower fuel costs, and reduce emissions. 
 
-###References:
+### References:
 [The U.S. Department of Energy](https://afdc.energy.gov/fuels/electricity_benefits.html#:~:text=Electric%20and%20hybrid)
 [M.I.T. Climate Portal](https://climate.mit.edu/ask-mit/are-electric-vehicles-definitely-better-climate-gas-powered-cars)
 
