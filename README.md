@@ -23,7 +23,7 @@ improve fuel economy, lower fuel costs, and reduce emissions.
 
 [M.I.T. Climate Portal](https://climate.mit.edu/ask-mit/are-electric-vehicles-definitely-better-climate-gas-powered-cars)
 
-## Section 2
+## Section 2 - Data Description & Upload
 - ## Instructions
 My data can be downloaded by following these steps 
 1. click [here](https://github.com/caries32/mgt4250test)
@@ -59,7 +59,7 @@ The columns in the dataset are as follows:
   - **Percent Electric Vehicles** (float64): The total percentage of electric vehicles.
 
 
-## Section 3
+## Section 3 - Interpreting Visualizations
 ## Interpreting Visualizations
 ![image](https://github.com/caries32/mgt4250test/assets/133187234/0e6942a7-0d60-4eff-a09a-5653a4ff3b67)
 Visualization 1 is a heatmap in Tableau that shows a breakdown of the percentage of EVs in Washington State broken down by county.
@@ -80,7 +80,7 @@ Visualization 3 is a bar graph from python that shows how the percentage of EVs 
 Visualization 3 helps see how the number of EVs has changed over time for the entire State of Washington which is also related to question 2.
 
 
-## Section 4
+## Section 4 - Discussion & Summary
 - ## Discussion
 I found this article, ["Electric Vehicles On The Rise In Washington State"](https://seattlemedium.com/electric-vehicles-on-the-rise-in-washington-state/), online that is related to my project questions. It talks about how the number of EVs in Washington has changed, how the number of new EVs sold in Washington has changed, the benefits of EVs for the environment, and the monetary incentives for buying an EV.
 
