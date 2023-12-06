@@ -81,8 +81,8 @@ Visualization 3 helps see how the number of EVs has changed over time for the en
 
 
 ## Section 4
-## Discussion & Summary
-- I found this article, ["Electric Vehicles On The Rise In Washington State"](https://seattlemedium.com/electric-vehicles-on-the-rise-in-washington-state/), online that related to my questions. It talks about how the number of EVs in Washington has changed, how the number of new EVs sold in Washington has changed, the benefits of EVs for the environment, and the monetary incentives for buying an EV.
+- ## Discussion
+I found this article, ["Electric Vehicles On The Rise In Washington State"](https://seattlemedium.com/electric-vehicles-on-the-rise-in-washington-state/), online that related to my questions. It talks about how the number of EVs in Washington has changed, how the number of new EVs sold in Washington has changed, the benefits of EVs for the environment, and the monetary incentives for buying an EV.
 
 I asked these questions (two from the project and one further) to OpenAI's ChatGPT-4 model to determine its answers.
 <img width="1118" alt="Screenshot 2023-12-06 at 5 00 18 AM" src="https://github.com/caries32/mgt4250-Final-Project/assets/133187234/bae476cf-5eab-4871-a5eb-716c8125381e">
@@ -91,7 +91,8 @@ I asked these questions (two from the project and one further) to OpenAI's ChatG
 
 
 
-Summary:
+- ## Summary
+  I believe that my visualizations align greatly with both the article, as well as ChatGPT's response. ChatGPT stated that about 1.9% of vehicles in Washington are electric, which is similar to what visualization 3 shows. The article didn't break down the change, or new EV sales by county, but it did state that EVs are "on the rise", which is also the case with most of the counties in Visualization 2. Overall, I think the article supports my project in showing that the number of EVs in the State of Washington is growing, and I believe that ChatGPT's responses support my project by showing the total amount of EVs in Washington State in 2023 is approximately 1.9%
 
 
 ![image](https://github.com/caries32/mgt4250test/assets/133187234/6cf743a3-f9a7-43f3-b3dc-5ac61f1c241f)
