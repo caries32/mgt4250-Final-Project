@@ -101,7 +101,7 @@ I asked these questions (two from the project and one further) to OpenAI's ChatG
 
 
 - ## Summary
-  I believe that my visualizations align greatly with both the article, as well as ChatGPT's response. ChatGPT stated that about 1.9% of vehicles in Washington are electric, which is similar to what visualization 3 shows. The article didn't break down the change, or new EV sales by county, but it did state that EVs are "on the rise", which is also the case with most of the counties in Visualization 2. Overall, I think the article supports my project in showing that the number of EVs in the State of Washington is growing, and I believe that ChatGPT's responses support my project by showing the total amount of EVs in Washington State in 2023 is approximately 1.9%
+  I believe that my visualizations align greatly with both the article, as well as ChatGPT's responses. ChatGPT stated that about 1.9% of vehicles in Washington are electric, which is similar to what visualization 3 shows. The article didn't break down the change, or new EV sales by county, but it did state that EVs are "on the rise", which is also the case with most of the counties in Visualization 2. Overall, I think the article supports my project in showing that the number of EVs in the State of Washington is growing, and I believe that ChatGPT's responses support my project by showing the total amount of EVs in Washington State in 2023 is approximately 1.9%
 
 
 ![image](https://github.com/caries32/mgt4250test/assets/133187234/6cf743a3-f9a7-43f3-b3dc-5ac61f1c241f)
