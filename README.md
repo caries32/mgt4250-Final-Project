@@ -27,9 +27,9 @@ improve fuel economy, lower fuel costs, and reduce emissions.
 - ## Instructions
 My data can be downloaded by following these steps 
 1. click [here](https://github.com/caries32/mgt4250test)
-2. Under the first box, where it says "caries32 Added files via upload" click on the file "washington_state_evs.csv" (Pictured)
+2. Under the first box, where it says "caries32 Added files via upload" click on the file "washington_state_evs.csv". (pictured below)
    <img width="1431" alt="Screenshot 2023-12-06 at 5 14 59 AM" src="https://github.com/caries32/mgt4250-Final-Project/assets/133187234/2d819dbd-479f-4b45-9434-5a71f546a65c">
-3. Click the download button to download the data
+3. Click the download button to download the data (pictured below)
    <img width="1434" alt="Screenshot 2023-12-06 at 5 17 10 AM" src="https://github.com/caries32/mgt4250-Final-Project/assets/133187234/a0a50bde-34ec-41a2-be2b-6401a5e2ebe3">
 *Note: This data is a subset of data found [here](https://catalog.data.gov/dataset/electric-vehicle-population-size-history-by-county) on Data.gov. It is pre-filtered to only include records with State as Washington (WA)*
 
