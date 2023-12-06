@@ -23,7 +23,7 @@ improve fuel economy, lower fuel costs, and reduce emissions.
 ## Section 2
 ## Instructions
 My data can be downloaded by following these steps 
-1. click **[here]**(https://github.com/caries32/mgt4250test)
+1. click [here](https://github.com/caries32/mgt4250test)
 2. Under the first box, where it says "caries32 Added files via upload" click on the file "washington_state_evs.csv" (Pictured)
 
 ## Data description
