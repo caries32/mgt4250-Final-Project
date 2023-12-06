@@ -62,14 +62,8 @@ The columns in the dataset are as follows:
 - ## Instructions for Reproducing Visualizations
   - To reproduce Visualization 1, click [here](https://public.tableau.com/shared/NCDGRNGN5?:display_count=n&:origin=viz_share_link)
   - To reproduce Visualization 2, click [here](https://mgt4250-final-project.streamlit.app/)
-  - To reproduce Visualization 3, first click [here](https://github.com/caries32/mgt4250-Final-Project/blob/main/mgt4250_finalpython.ipynb)
-      - Then click the download button (pictured below)
-<img width="1437" alt="Screenshot 2023-12-06 at 6 23 32 AM" src="https://github.com/caries32/mgt4250-Final-Project/assets/133187234/2396a98c-3b1f-49e6-ab27-16478f594cbb">
-
-      - Then open JupyterLab and load the file
-      - Then Click run on the first cell to reproduce the visualtization
-      - *Note: You may have to change the file path if you did not download the washington_state_evs.csv file to the same place.
-
+  - To reproduce Visualization 3, click [here](https://github.com/caries32/mgt4250-Final-Project/blob/main/mgt4250_finalpython.ipynb)
+ 
 
 
 ## Section 3 - Interpreting Visualizations
