@@ -33,9 +33,13 @@ The columns in the dataset are as follows:
 
 
 Date (object): The date of the data record.
+
 County (object): The name of the county.
+
 State (object): The state, in this case, only Washington (WA).
+
 Vehicle Primary Use (object): The primary use of the vehicle, such as Passenger, Truck, etc.
+
 Battery Electric Vehicles (BEVs) (int64): The number of battery electric vehicles.
 Plug-In Hybrid Electric Vehicles (PHEVs) (int64): The number of plug-in hybrid electric vehicles.
 Electric Vehicle (EV) Total (int64): The total number of electric vehicles, including both BEVs and PHEVs.
