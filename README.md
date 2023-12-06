@@ -1,8 +1,6 @@
 # mgt4250test
 
 [Link to Tableau Public Visualization](https://public.tableau.com/shared/Q47Z8CCSW?:display_count=n&:origin=viz_share_link)
-
-
 This repo is for the class project of MGT4250 Fall 2023 at Elon University.
 
 ## Section 1 - Project Description
@@ -41,10 +39,15 @@ State (object): The state, in this case, only Washington (WA).
 Vehicle Primary Use (object): The primary use of the vehicle, such as Passenger, Truck, etc.
 
 Battery Electric Vehicles (BEVs) (int64): The number of battery electric vehicles.
+
 Plug-In Hybrid Electric Vehicles (PHEVs) (int64): The number of plug-in hybrid electric vehicles.
+
 Electric Vehicle (EV) Total (int64): The total number of electric vehicles, including both BEVs and PHEVs.
+
 Non-Electric Vehicle Total (int64): The total number of non-electric vehicles.
+
 Total Vehicles (int64): The total number of vehicles in the county, (EVs and gas/diesel).
+
 Percent Electric Vehicles (float64): The total percentage of electric vehicles.
 
 
