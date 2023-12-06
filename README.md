@@ -38,7 +38,7 @@ My data can be downloaded by following these steps
 The columns in the dataset are as follows:
 
 
-  - **Date** (object): The date of the data record.
+    - **Date** (object): The date of the data record.
 
   - **County** (object): The name of the county.
 
