@@ -70,6 +70,7 @@ the State of Washington are electric?)
 Visualization 2 is a line plot from Streamlit that shows the total number of EVs in
 different Washington counties and has a select box for each county
 
+
 Visualization 2 helps us see how the number of EVs has changed over time for
 each county in the State of Washington which is related to question 2 (How has
 the number of electric vehicles in the State of Washington changed over time?)
