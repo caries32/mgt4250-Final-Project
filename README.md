@@ -57,6 +57,7 @@ This is *especially* **important** because
 2. Second reason
 3. Third reason [LINK](https://www.elon.edu)
 
+## Section 3
 ## Interpreting Visualizations
 ![image](https://github.com/caries32/mgt4250test/assets/133187234/0e6942a7-0d60-4eff-a09a-5653a4ff3b67)
 Visualization 1 is a heatmap in Tableau that shows a breakdown of the percentage of EVs in Washington State broken down by county.
@@ -77,8 +78,9 @@ Visualization 3 is a bar graph from python that shows how the percentage of EVs 
 Visualization 3 helps see how the number of EVs has changed over time for the entire State of Washington which is also related to question 2.
 
 
+## Section 4
 ## Discussion & Summary
-Discussion:
+I found this [article](https://seattlemedium.com/electric-vehicles-on-the-rise-in-washington-state/) online, that related to my questions. It talks about how the number of EVs in Washington has changed, how the number of new EVs sold in Washington has changed, the benefits of EVs for the environment, and the monetary incentives for buying an EV.
 
 Summary:
 
