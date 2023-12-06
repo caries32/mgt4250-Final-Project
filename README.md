@@ -22,7 +22,7 @@ improve fuel economy, lower fuel costs, and reduce emissions.
 
 ## Section 2
 ## Instructions
-My data can be downloaded by clicking [here],
+My data can be downloaded by clicking [here](https://github.com/caries32/mgt4250test), and 
 
 ## Data description
 This is *especially* **important** because 
