@@ -24,7 +24,7 @@ improve fuel economy, lower fuel costs, and reduce emissions.
 [M.I.T. Climate Portal](https://climate.mit.edu/ask-mit/are-electric-vehicles-definitely-better-climate-gas-powered-cars)
 
 ## Section 2
-## Instructions
+- ## Instructions
 My data can be downloaded by following these steps 
 1. click [here](https://github.com/caries32/mgt4250test)
 2. Under the first box, where it says "caries32 Added files via upload" click on the file "washington_state_evs.csv" (Pictured)
@@ -34,13 +34,13 @@ My data can be downloaded by following these steps
 *Note: This data is a subset of data found [here](https://catalog.data.gov/dataset/electric-vehicle-population-size-history-by-county) on Data.gov. It is pre-filtered to only include records with State as Washington (WA)*
 
 
-## Data description
+- ## Data description
 The columns in the dataset are as follows:
 
 
-**Date** (object): The date of the data record.
+  - **Date** (object): The date of the data record.
 
-**County** (object): The name of the county.
+  - **County** (object): The name of the county.
 
 **State** (object): The state, in this case, only Washington (WA).
 
