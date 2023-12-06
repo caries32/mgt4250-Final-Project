@@ -30,25 +30,25 @@ My data can be downloaded by following these steps
 The columns in the dataset are as follows:
 
 
-Date (object): The date of the data record.
+**Date** (object): The date of the data record.
 
-County (object): The name of the county.
+**County** (object): The name of the county.
 
-State (object): The state, in this case, only Washington (WA).
+**State** (object): The state, in this case, only Washington (WA).
 
-Vehicle Primary Use (object): The primary use of the vehicle, such as Passenger, Truck, etc.
+**Vehicle Primary Use** (object): The primary use of the vehicle, such as Passenger, Truck, etc.
 
-Battery Electric Vehicles (BEVs) (int64): The number of battery electric vehicles.
+**Battery Electric Vehicles (BEVs)** (int64): The number of battery electric vehicles.
 
-Plug-In Hybrid Electric Vehicles (PHEVs) (int64): The number of plug-in hybrid electric vehicles.
+**Plug-In Hybrid Electric Vehicles (PHEVs)** (int64): The number of plug-in hybrid electric vehicles.
 
-Electric Vehicle (EV) Total (int64): The total number of electric vehicles, including both BEVs and PHEVs.
+**Electric Vehicle (EV) Total** (int64): The total number of electric vehicles, including both BEVs and PHEVs.
 
-Non-Electric Vehicle Total (int64): The total number of non-electric vehicles.
+**Non-Electric Vehicle Total** (int64): The total number of non-electric vehicles.
 
-Total Vehicles (int64): The total number of vehicles in the county, (EVs and gas/diesel).
+**Total Vehicles** (int64): The total number of vehicles in the county, (EVs and gas/diesel).
 
-Percent Electric Vehicles (float64): The total percentage of electric vehicles.
+**Percent Electric Vehicles** (float64): The total percentage of electric vehicles.
 
 
 
