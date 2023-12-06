@@ -4,6 +4,8 @@
 - ### Visualization Link
 [Link to Tableau Public Visualization](https://public.tableau.com/shared/Q47Z8CCSW?:display_count=n&:origin=viz_share_link)
 
+[Link to Streamlit Visualiation](https://mgt4250-final-project.streamlit.app/)
+
 This repo is for the class project of MGT4250 Fall 2023 at Elon University.
 
 
