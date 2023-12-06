@@ -1,14 +1,15 @@
 # mgt4250 Final Project
 
-[Link to Tableau Public Visualization](https://public.tableau.com/shared/Q47Z8CCSW?:display_count=n&:origin=viz_share_link)
+- [Link to Tableau Public Visualization](https://public.tableau.com/shared/Q47Z8CCSW?:display_count=n&:origin=viz_share_link)
 This repo is for the class project of MGT4250 Fall 2023 at Elon University.
 
 ## Section 1 - Project Description
-### Questions of interest
-- These are my questions
+### - Questions of interest
+These are my questions
   - (1.) What percentage of vehicles in the State of Washington are electric?
   - (2.) How has the number of electric vehicles in the State of Washington changed over
 time?
+
 
 These questions are important because electric vehicles have been known to be better
 for the environment for some time now. All forms of electric vehicles (EVs) can help
