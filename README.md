@@ -5,7 +5,6 @@ This repo is for the class project of MGT4250 Fall 2023 at Elon University.
 
 ## Section 1 - Project Description
 - ### Questions of interest
-These are my questions
   - (1.) What percentage of vehicles in the State of Washington are electric?
   - (2.) How has the number of electric vehicles in the State of Washington changed over
 time?
