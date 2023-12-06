@@ -1,6 +1,7 @@
 # mgt4250test
 
 [Link to Tableau Public Visualization](https://public.tableau.com/shared/Q47Z8CCSW?:display_count=n&:origin=viz_share_link)
+
 This repo is for the class project of MGT4250 Fall 2023 at Elon University.
 
 ## Section 1 - Project Description
