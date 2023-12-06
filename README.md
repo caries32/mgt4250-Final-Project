@@ -27,11 +27,9 @@ energy-efficient, and further reduce our dependency on fossil fuels.
 [M.I.T. Climate Portal](https://climate.mit.edu/ask-mit/are-electric-vehicles-definitely-better-climate-gas-powered-cars)
 
 ## Section 2 - Data Description & Upload
-- ## Instructions
+- ## Instructions for Data Download
 My data can be downloaded by following these steps 
-1. click [here](https://github.com/caries32/mgt4250test)
-2. Under the first box, where it says "caries32 Added files via upload" click on the file "washington_state_evs.csv". (pictured below)
-   <img width="1431" alt="Screenshot 2023-12-06 at 5 14 59 AM" src="https://github.com/caries32/mgt4250-Final-Project/assets/133187234/2d819dbd-479f-4b45-9434-5a71f546a65c">
+1. click [here](https://github.com/caries32/mgt4250-Final-Project/blob/main/washington_state_evs.csv)
 3. Click the download button to download the data (pictured below)
    <img width="1434" alt="Screenshot 2023-12-06 at 5 17 10 AM" src="https://github.com/caries32/mgt4250-Final-Project/assets/133187234/a0a50bde-34ec-41a2-be2b-6401a5e2ebe3">
 *Note: This data is a subset of data found [here](https://catalog.data.gov/dataset/electric-vehicle-population-size-history-by-county) on Data.gov. It is pre-filtered to only include records with State as Washington (WA)*
@@ -60,6 +58,18 @@ The columns in the dataset are as follows:
   - **Total Vehicles** (int64): The total number of vehicles in the county, (EVs and gas/diesel).
 
   - **Percent Electric Vehicles** (float64): The total percentage of electric vehicles.
+
+- ## Instructions for Reproducing Visualizations
+  - To reproduce Visualization 1, click [here](https://public.tableau.com/shared/NCDGRNGN5?:display_count=n&:origin=viz_share_link)
+  - To reproduce Visualization 2, click [here](https://mgt4250-final-project.streamlit.app/)
+  - To reproduce Visualization 3, first click [here](https://github.com/caries32/mgt4250-Final-Project/blob/main/mgt4250_finalpython.ipynb)
+      - Then click the download button (pictured below)
+<img width="1437" alt="Screenshot 2023-12-06 at 6 23 32 AM" src="https://github.com/caries32/mgt4250-Final-Project/assets/133187234/2396a98c-3b1f-49e6-ab27-16478f594cbb">
+
+      - Then open JupyterLab and load the file
+      - Then Click run on the first cell to reproduce the visualtization
+      - *Note: You may have to change the file path if you did not download the washington_state_evs.csv file to the same place.
+
 
 
 ## Section 3 - Interpreting Visualizations
