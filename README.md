@@ -60,20 +60,28 @@ This is *especially* **important** because
 ## Interpreting Visualizations
 ![image](https://github.com/caries32/mgt4250test/assets/133187234/0e6942a7-0d60-4eff-a09a-5653a4ff3b67)
 Visualization 1 is a heatmap in Tableau that shows a breakdown of the percentage of
-EVs in Washington State broken down by county
+EVs in Washington State broken down by county.
 
 Visualization 1 helps us to better visualize how the percentage of EVs are spread
 across Washington which is related to question 1 (What percentage of vehicles in
-the State of Washington are electric?)
+the State of Washington are electric?).
 
 <img width="1436" alt="Screenshot 2023-12-06 at 4 17 17 AM" src="https://github.com/caries32/mgt4250test/assets/133187234/a8a49ce2-6a97-40fe-8867-13c64960b891">
 Visualization 2 is a line plot from Streamlit that shows the total number of EVs in
-different Washington counties and has a select box for each county
+different Washington counties and has a select box for each county.
 
 
 Visualization 2 helps us see how the number of EVs has changed over time for
 each county in the State of Washington which is related to question 2 (How has
-the number of electric vehicles in the State of Washington changed over time?)
+the number of electric vehicles in the State of Washington changed over time?)..
+
+
+![download-2](https://github.com/caries32/mgt4250test/assets/133187234/90479752-da24-4d73-a300-41c17a6919cd)
+Visualization 3 is a bar graph from python that shows how the percentage of Evs in
+Washington has changed over time.
+
+Visualization 3 helps see how the number of EVs has changed over time for the
+entire State of Washington which is also related to question 2.
 
 
 ## Discussion & Summary
