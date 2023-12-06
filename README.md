@@ -16,6 +16,7 @@ improve fuel economy, lower fuel costs, and reduce emissions.
 
 ### References:
 [The U.S. Department of Energy](https://afdc.energy.gov/fuels/electricity_benefits.html#:~:text=Electric%20and%20hybrid)
+
 [M.I.T. Climate Portal](https://climate.mit.edu/ask-mit/are-electric-vehicles-definitely-better-climate-gas-powered-cars)
 
 ## Data description
