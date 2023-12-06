@@ -58,7 +58,13 @@ This is *especially* **important** because
 3. Third reason [LINK](https://www.elon.edu)
 
 ## Interpreting Visualizations
-<img width="884" alt="Screenshot 2023-11-27 at 2 24 26 PM" src="https://github.com/caries32/mgt4250test/assets/133187234/5a2e9421-cc9e-41b3-8e91-1cd433a489c6">
+![image](https://github.com/caries32/mgt4250test/assets/133187234/0e6942a7-0d60-4eff-a09a-5653a4ff3b67)
+Visualization 1 is a heatmap in Tableau that shows a breakdown of the percentage of
+EVs in Washington State broken down by county
+
+Visualization 1 helps us to better visualize how the percentage of EVs are spread
+across Washington which is related to question 1 (What percentage of vehicles in
+the State of Washington are electric?)
 
 ## Discussion & Summary
 Discussion:
