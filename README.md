@@ -82,6 +82,13 @@ Visualization 3 helps see how the number of EVs has changed over time for the en
 ## Discussion & Summary
 I found this article, ["Electric Vehicles On The Rise In Washington State"](https://seattlemedium.com/electric-vehicles-on-the-rise-in-washington-state/), online that related to my questions. It talks about how the number of EVs in Washington has changed, how the number of new EVs sold in Washington has changed, the benefits of EVs for the environment, and the monetary incentives for buying an EV.
 
+I asked these questions (two from the project and one further) to OpenAI's ChatGPT-4 model to determine its answers.
+<img width="1118" alt="Screenshot 2023-12-06 at 5 00 18 AM" src="https://github.com/caries32/mgt4250-Final-Project/assets/133187234/bae476cf-5eab-4871-a5eb-716c8125381e">
+<img width="833" alt="Screenshot 2023-12-06 at 5 01 25 AM" src="https://github.com/caries32/mgt4250-Final-Project/assets/133187234/af26305d-00ec-451b-a3e7-6029aa4324e7">
+<img width="824" alt="Screenshot 2023-12-06 at 5 02 36 AM" src="https://github.com/caries32/mgt4250-Final-Project/assets/133187234/82c85e30-dc6d-4df7-94fd-a51c774d92f7">
+
+
+
 Summary:
 
 
