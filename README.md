@@ -77,6 +77,7 @@ the number of electric vehicles in the State of Washington changed over time?)..
 
 
 ![download-2](https://github.com/caries32/mgt4250test/assets/133187234/90479752-da24-4d73-a300-41c17a6919cd)
+
 Visualization 3 is a bar graph from python that shows how the percentage of Evs in
 Washington has changed over time.
 
