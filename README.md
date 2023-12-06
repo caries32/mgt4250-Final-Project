@@ -29,6 +29,22 @@ My data can be downloaded by following these steps
 2. Under the first box, where it says "caries32 Added files via upload" click on the file "washington_state_evs.csv" (Pictured)
 
 ## Data description
+The columns in the dataset are as follows:
+
+
+Date (object): The date of the data record.
+County (object): The name of the county.
+State (object): The state, in this case, only Washington (WA).
+Vehicle Primary Use (object): The primary use of the vehicle, such as Passenger, Truck, etc.
+Battery Electric Vehicles (BEVs) (int64): The number of battery electric vehicles.
+Plug-In Hybrid Electric Vehicles (PHEVs) (int64): The number of plug-in hybrid electric vehicles.
+Electric Vehicle (EV) Total (int64): The total number of electric vehicles, including both BEVs and PHEVs.
+Non-Electric Vehicle Total (int64): The total number of non-electric vehicles.
+Total Vehicles (int64): The total number of vehicles in the county, (EVs and gas/diesel).
+Percent Electric Vehicles (float64): The total percentage of electric vehicles.
+
+
+
 This is *especially* **important** because 
 1. First reason
 2. Second reason
