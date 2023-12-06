@@ -1,7 +1,7 @@
 # mgt4250 Final Project
 ## Section 1 - Project Description
 
-- ### Visualization Link
+- ### Visualization Links
 [Link to Tableau Public Visualization](https://public.tableau.com/shared/Q47Z8CCSW?:display_count=n&:origin=viz_share_link)
 
 [Link to Streamlit Visualiation](https://mgt4250-final-project.streamlit.app/)
