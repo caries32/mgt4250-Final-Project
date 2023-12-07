@@ -2,7 +2,7 @@
 ## Section 1 - Project Description
 
 - ### Visualization Links
-[Link to Tableau Public Visualization](https://public.tableau.com/shared/Q47Z8CCSW?:display_count=n&:origin=viz_share_link)
+[Link to Tableau Public Visualization](https://public.tableau.com/views/Project_17015016633130/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [Link to Streamlit Visualization](https://mgt4250-final-project.streamlit.app/)
 
@@ -62,7 +62,7 @@ The columns in the dataset are as follows:
   - **Percent Electric Vehicles** (float64): The total percentage of electric vehicles.
 
 - ## Instructions for Reproducing Visualizations
-  - To reproduce Visualization 1, click [here](https://public.tableau.com/shared/NCDGRNGN5?:display_count=n&:origin=viz_share_link)
+  - To reproduce Visualization 1, click [here](https://public.tableau.com/views/Project_17015016633130/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
   - To reproduce Visualization 2, click [here](https://mgt4250-final-project.streamlit.app/)
   - To reproduce Visualization 3, click [here](https://github.com/caries32/mgt4250-Final-Project/blob/main/mgt4250_finalpython.ipynb)
  
