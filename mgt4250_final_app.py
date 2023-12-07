@@ -14,7 +14,7 @@ def load_data():
 data = load_data()
 
 # Sidebar for user input
-st.sidebar.header('User Input Features')
+st.sidebar.header('County Select Box')
 selected_county = st.sidebar.selectbox('County', sorted(data['County'].unique()))
 
 # Filtering data based on selection
