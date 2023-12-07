@@ -14,7 +14,7 @@ This repo is for the class project of MGT4250 Fall 2023 at Elon University.
   - (2.) How has the number of electric vehicles in the State of Washington changed over
 time?
 
-- ### Importance
+  - ### Importance
 
 These questions are important because electric vehicles have been known to be better
 for the environment for some time now. All forms of electric vehicles (EVs) can help
