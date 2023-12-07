@@ -32,7 +32,7 @@ time?
 - ## Instructions for Data Download
 My data can be downloaded by following these steps 
 1. click [here](https://github.com/caries32/mgt4250-Final-Project/blob/main/washington_state_evs.csv)
-3. Click the download button to download the data (pictured below)
+3. Click the download button on the right-side of the screen to download the data (pictured below)
    <img width="1434" alt="Screenshot 2023-12-06 at 5 17 10 AM" src="https://github.com/caries32/mgt4250-Final-Project/assets/133187234/a0a50bde-34ec-41a2-be2b-6401a5e2ebe3">
 *Note: This data is a subset of data found [here](https://catalog.data.gov/dataset/electric-vehicle-population-size-history-by-county) on Data.gov. It is pre-filtered to only include records with State as Washington (WA)*
 
